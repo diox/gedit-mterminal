@@ -1,0 +1,10 @@
+[Plugin]
+Loader=python
+Module=mterminal
+IAge=3
+Name=Multiple Tabs Terminal
+Description=Terminal with multiple tabs
+Icon=gnome-terminal
+Authors=Mathieu Pillard
+Copyright=Copyright © 2011
+Website=https://github.com/diox/gedit-mterminal
