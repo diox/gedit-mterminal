@@ -2,6 +2,8 @@
 #
 # mterminal.py - Multiple Terminal plugin for gedit
 #
+# Copyright (C) 2005-2006 - Paolo Borelli
+# Copyright (C) 2008 FaziBear
 # Copyright (C) 2011 - Mathieu Pillard
 #
 # gedit-mterminal is free software; you can redistribute it and/or modify
